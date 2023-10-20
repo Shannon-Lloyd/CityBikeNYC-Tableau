@@ -32,3 +32,5 @@ citibike_stations.csv
 citibike_ly_clean.csv
 
 Then I loaded these two files into Tableau to preform my anaylsis.
+
+https://public.tableau.com/app/profile/shannon.lloyd/viz/CitiBike_16976284925600/CitibikeAnalysisforJanAprJul2023?publish=yes
